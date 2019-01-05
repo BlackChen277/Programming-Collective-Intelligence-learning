@@ -16,4 +16,13 @@
   
  - [小游戏](http://guessthecorrelation.com/)
  
+ 
  - Pearson相关系数是用协方差除以两个变量的标准差得到的
+
+### 相似度算法
+
+ - [相似度](https://blog.csdn.net/ice110956/article/details/14143991)
+
+##数据集
+  
+  - [groupLens](https://grouplens.org/)
